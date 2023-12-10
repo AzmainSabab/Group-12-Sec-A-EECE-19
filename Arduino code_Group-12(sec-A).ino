@@ -1,6 +1,4 @@
 
-Arduino Code
-
 #include <Servo.h>
 // Defines Tirg and Echo pins of the Ultrasonic Sensor & the Buzzer pin
 const int trigPin = 10;
